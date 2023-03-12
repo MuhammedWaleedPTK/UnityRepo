@@ -8,6 +8,9 @@ public class SampleScript : MonoBehaviour
     void Start()
     {
         Debug.Log("Sample");
+
+
+        Debug.Log("Second Commit");
     }
 
     // Update is called once per frame
